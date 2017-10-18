@@ -73,9 +73,10 @@
 					<div class="f_left">
 						<ul class="ovh">
 							<li><a href="http://www.youtube.com/embed/YP0_0EBawaQ" rel="shadowbox;width=850;height=510"></a></li>
+						<!--動画が有効になった際は、80行目や81行目を有効にしてください-->
 							<li><a href="javascript:void(0);"></a></li>
 							<li><a href="javascript:void(0);"></a></li>
-						<!-- 以下のURLが有効になった際は、以下のコメントアウトしているソースを有効にして、現在使用している「movie02Btn_on.png」と「movie03Btn_on.png」をimg/movie/rename/のディレクトリにある画像に差し替えてください					
+						<!-- 76行目のコメントアウト文章の補足。動画の公開許可おりたあと、以下（80行目や81行目）のコメントアウトしているソースを有効にして、現在使用している「movie02Btn_on.png」と「movie03Btn_on.png」をimg/movie/rename/のディレクトリにある画像に差し替えてください					
 							<li><a href="http://www.youtube.com/embed/T9NfgmtRp04" rel="shadowbox;width=850;height=510"><img src="img/movie/movie02Btn.png" alt="movie02"></a></li>
 							<li><a href="http://www.youtube.com/embed/smeaRXp2UYI" rel="shadowbox;width=850;height=510"><img src="img/movie/movie03Btn.png" alt="movie03"></a></li>
 						-->
