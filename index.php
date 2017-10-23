@@ -113,7 +113,7 @@
 					<li><img src="img/referee/step03.png" alt="推薦の依頼"></li>
 					<li><img src="img/referee/step04.png" alt="友人の紹介"></li>	
 				</ul>
-				<a href="javascript:void(0);" class="mordal02"><img src="img/referee/link.png" alt="推薦者奨励金についてはこちらを御覧ください"></a>
+				<a href="javascript:void(0);" class="mordal01"><img src="img/referee/link.png" alt="推薦者奨励金についてはこちらを御覧ください"></a>
 			</div>
 		</section>
 
@@ -126,7 +126,7 @@
 					<li><img src="img/changejob/step03.png" alt="応募するボタンをクリック！"></li>
 					<li><img src="img/changejob/step04.png" alt="転職支援金をキャッシュバック"></li>				
 				</ul>
-				<a href="javascript:void(0);" class="mordal01"><img src="img/changejob/link.png" alt="転職支援金についてはこちらを御覧ください"></a>
+				<a href="javascript:void(0);" class="mordal02"><img src="img/changejob/link.png" alt="転職支援金についてはこちらを御覧ください"></a>
 			</div>
 		</section>
 
